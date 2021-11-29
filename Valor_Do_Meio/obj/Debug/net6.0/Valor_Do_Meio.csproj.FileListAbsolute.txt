@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\bin\Debug\net6.0\Valor_Do_Meio.exe
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\bin\Debug\net6.0\Valor_Do_Meio.deps.json
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\bin\Debug\net6.0\Valor_Do_Meio.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\bin\Debug\net6.0\Valor_Do_Meio.dll
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\bin\Debug\net6.0\ref\Valor_Do_Meio.dll
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\bin\Debug\net6.0\Valor_Do_Meio.pdb
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.dll
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\ref\Valor_Do_Meio.dll
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.pdb
+C:\Users\Lenovo\OneDrive\03 - Curso Recode Pro\C#\Valor_Do_Meio\obj\Debug\net6.0\Valor_Do_Meio.genruntimeconfig.cache
